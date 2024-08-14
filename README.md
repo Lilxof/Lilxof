@@ -5,7 +5,7 @@
 # 🏄‍♂️ Hi there, I'm Michele - aka Lilxof 👋 
 
 
-I'm an Italian boy of 18yo. I'm just chillin' and tryin' to get a better life. Im here to learn more thing 'bout this programmin' and cybersecurity things. Imma post some of my project in the future. LUV 👾
+I'm an Italian boy of 18yo. I'm just chillin' and tryin' to get a better life. I'm here to learn more things 'bout this programmin' and cybersecurity things. I'll be postin' some of my projects in the future. LUV 👾
 
 
 **`[Developer/3D artist/MoneyMaker]`**
