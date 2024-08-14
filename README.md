@@ -7,6 +7,5 @@
 
 
 
+# 🏄‍♂️ Hi there, I'm Kevin - aka Phoeyuh 👋 
 
-
-# 💸 Hi there, I'm Michele - aka Lilxof 💸
