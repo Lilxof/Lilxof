@@ -1,5 +1,5 @@
 
-<img align="right" alt="Fortnite-Guy" src="https://i.kym-cdn.com/photos/images/original/001/857/748/54e.jpg">
+<img align="right" alt="Fortnite-Guy" width="900" src="https://i.kym-cdn.com/photos/images/original/001/857/748/54e.jpg">
 
 <div style="clear: both;"></div>
 
