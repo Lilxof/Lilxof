@@ -5,7 +5,7 @@
 # 🏄‍♂️ Hi there, I'm Michele - aka Lilxof 👋 
 
 
-I'm an Italian boy of 18yo. I'm just chillin' and tryin' to get a better life. Im here to learn more thing 'bout this programmin' things. Imma post some of my project in the future. LUV 👾
+I'm an Italian boy of 18yo. I'm just chillin' and tryin' to get a better life. Im here to learn more thing 'bout this programmin' and cybersecurity things. Imma post some of my project in the future. LUV 👾
 
 
 **`[Developer/3D artist/MoneyMaker]`**
@@ -25,3 +25,11 @@ I'm an Italian boy of 18yo. I'm just chillin' and tryin' to get a better life. I
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://godotengine.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40"/> </a> </p>
 
+#
+
+<details>
+ <summary><h3>📊 My Stats</h3></summary>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilxof&show_icons=true&theme=dark&hide_border=true&locale=en" alt="phoeyuh"/><br><br>
+  <img src="https://github.com/Lilxof/Lilxof/assets/113254295/260e0f3b-075d-4417-9915-fcc59aa24b97" align="left" height="120" width="120" alt="GIF">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilxof&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="phoeyuh" /></p>
+<br>
